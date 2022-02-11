@@ -13,6 +13,7 @@
 ## PROGRAM: 
 
 ## OUTPUT:
+![github.logo](multiple.png)
 
 ## RESULT:
 
