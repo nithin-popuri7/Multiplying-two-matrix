@@ -50,5 +50,5 @@ print("Product of two arrays is:", result)
 ## OUTPUT:
 ![github.logo](multiple.png)
 
-## RESULT:
+## RESULT:Hence the numpy module is imported and the programme is succefuuly executed to find the product of two matrices.
 
