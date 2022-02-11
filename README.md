@@ -5,7 +5,7 @@
 ## ALGORITHM:
 
 ### Step 1:
-import numpy as np
+Import numpy as np
 ### Step 2:
 Declare a variable array1 as an empty list. 
 ### Step 3:
@@ -50,5 +50,6 @@ print("Product of two arrays is:", result)
 ## OUTPUT:
 ![github.logo](multiple.png)
 
-## RESULT:Hence the numpy module is imported and the programme is succefuuly executed to find the product of two matrices.
+## RESULT:
+Hence the numpy module is imported and the programme is succefuuly executed to find the product of two matrices.
 
